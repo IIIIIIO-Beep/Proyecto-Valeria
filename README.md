@@ -1,6 +1,6 @@
 # Proyecto 001 · Valeria
 
-Pergamino interactivo, sin dependencias ni compilación. Abre `index.html` para verlo.
+Rollo de papel higiénico interactivo, sin dependencias ni compilación. Abre `index.html` para verlo.
 
 ## Publicar con GitHub Pages
 
@@ -15,6 +15,6 @@ El nombre de usuario es el de la cuenta donde creas el repositorio. Si usas otro
 
 ## Interacción
 
-Arrastra el borde inferior para revelar la carta. En pantallas pequeñas se desplaza automáticamente al acercar el dedo al borde inferior. También puedes usar los botones para abrir por partes o leer todo. El botón del pergamino funciona con teclado (Enter o espacio).
+Arrastra el borde inferior para revelar la carta. En pantallas pequeñas se desplaza automáticamente al acercar el dedo al borde inferior. También puedes usar los botones para abrir por partes o leer todo. El botón del papel funciona con teclado (Enter o espacio).
 
 La carta es pública al publicar la página. No hay formularios, rastreadores ni servicios externos.
